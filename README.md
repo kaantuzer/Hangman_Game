@@ -1,0 +1,1 @@
+This Python script brings the classic Hangman game to life, featuring computer science-related words. Players guess letters to uncover the hidden word, with each incorrect guess adding to the challenge. It's an engaging way to test both your word-guessing and computer science knowledge.
